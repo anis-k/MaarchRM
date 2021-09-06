@@ -597,14 +597,14 @@ a.dt-button.active:not(.disabled) {
   /* Opera 11.10+ */
   background-image: linear-gradient(to bottom, #f3f3f3 0%, #e2e2e2 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#f3f3f3', EndColorStr='#e2e2e2');
-  box-shadow: inset 1px 1px 3px #999999;
+  box-shadow: inset 1px 1px 3px #9d8cb4;
 }
 button.dt-button:active:not(.disabled):hover:not(.disabled), button.dt-button.active:not(.disabled):hover:not(.disabled),
 div.dt-button:active:not(.disabled):hover:not(.disabled),
 div.dt-button.active:not(.disabled):hover:not(.disabled),
 a.dt-button:active:not(.disabled):hover:not(.disabled),
 a.dt-button.active:not(.disabled):hover:not(.disabled) {
-  box-shadow: inset 1px 1px 3px #999999;
+  box-shadow: inset 1px 1px 3px #9d8cb4;
   background-color: #cccccc;
   /* Fallback */
   background-image: -webkit-linear-gradient(top, #eaeaea 0%, #cccccc 100%);

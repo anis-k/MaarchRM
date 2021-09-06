@@ -11,7 +11,7 @@ maxResults = 500
 publicArchives = false
 
 ; Logos, title and favicon of the application
-logo = "/presentation/img/RM_MNCHM.svg"
+logo = "/presentation/img/logo1.png"
 altLogo = "/presentation/img/RM.svg"
 favicon = "/presentation/img/rm.ico"
 title = "Maarch RM"

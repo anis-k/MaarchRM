@@ -18,4 +18,4 @@ export LAABS_CRYPT_KEY="mySecretKey"
 export LAABS_CRYPT_CIPHER=MCRYPT_BLOWFISH
 
 # Change working directory to web root
-cd ../../../web
+cd /var/www/laabs/web/
