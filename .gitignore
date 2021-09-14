@@ -22,5 +22,4 @@ tests/cypress/videos/*
 
 tests/cypress/screenshots/*
 !tests/cypress/screenshots/.gitignore
-composer.lock
 package-lock.json

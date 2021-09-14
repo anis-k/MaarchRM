@@ -4112,3 +4112,157 @@ errors: Array
 
 format: Error on service container route 'favicon.ico ': Bundle favicon.ico is not activated.
   thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[07-Sep-2021 13:14:50 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[07-Sep-2021 13:14:50 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[07-Sep-2021 13:14:55 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[07-Sep-2021 13:14:55 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[08-Sep-2021 12:17:09 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[08-Sep-2021 12:17:09 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[08-Sep-2021 12:17:17 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[08-Sep-2021 12:17:17 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[12-Sep-2021 11:48:53 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[12-Sep-2021 11:48:53 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[12-Sep-2021 11:49:29 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[12-Sep-2021 11:49:29 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[12-Sep-2021 11:49:35 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
+[12-Sep-2021 11:49:35 Europe/Berlin] PHP Fatal error:  Uncaught 
+variables: Array
+(
+)
+
+errors: Array
+(
+)
+
+format: Error on service container route 'var/www/laabs/src/presentation/maarchRM/Resources/public/img/logo1.png ': Bundle var is not activated.
+  thrown in /var/www/laabs/core/Route/ContainerRouter.php on line 42
