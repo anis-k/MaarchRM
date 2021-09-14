@@ -1,6 +1,6 @@
 {
     "require":{
-        "php" : "7.3"
+        "php" : "7.3.29"
     },
     "require-dev": {
         "codeception/codeception": "^3.0",
