@@ -1,5 +1,5 @@
 # APP MaarchRM - Records Management
-
+<VirtualHost *:80>
 
     # Set document root in Laabs public web directory
     DocumentRoot /var/www/laabs/web/
@@ -53,4 +53,4 @@
     SetEnv LAABS_ERROR_URI recordsManagement/welcome/error
 
     SetEnv LAABS_CRYPT_KEY mySecretKey
-
+</VirtualHost>
