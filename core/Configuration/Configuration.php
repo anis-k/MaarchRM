@@ -46,10 +46,10 @@ class Configuration
                 self::$instance->registerVariable('laabsDirectory', dirname(getcwd()));
                 self::$instance->registerVariable('version', \laabs::getVersion());
 
-                $confFile = \laabs::getConfiguration();
+                $confFile = \app::getConfiguration();
                 self::$instance->loadFile($confFile);
                 
-                \laabs::setCache('configuration', self::$instance);
+                \app::setCache('configuration', self::$instance);
             }
         }
 
