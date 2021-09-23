@@ -49,7 +49,7 @@ class Configuration
                 $confFile = \app::getConfiguration();
                 self::$instance->loadFile($confFile);
                 
-                \app::setCache('configuration', self::$instance);
+                \laabs::setCache('configuration', self::$instance);
             }
         }
 
