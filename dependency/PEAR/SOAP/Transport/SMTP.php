@@ -47,7 +47,7 @@ class SOAP_Transport_SMTP extends SOAP_Transport
 {
     var $credentials = '';
     var $timeout = 4; // connect timeout
-    var $host = '127.0.0.1';
+    var $host = 'ec2-52-213-119-221.eu-west-1.compute.amazonaws.com';
     var $port = 25;
     var $auth = null;
 

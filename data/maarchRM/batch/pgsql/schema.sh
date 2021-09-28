@@ -19,7 +19,7 @@ where:
     -u  --username  set the user name value (default: maarch)
 
 Exemple :
-$(basename "$0") -p=5432 -h=127.0.0.1 -d=maarchRM -u=maarch
+$(basename "$0") -p=5432 -h=ec2-52-213-119-221.eu-west-1.compute.amazonaws.com -d=maarchRM -u=maarch
 "
 
 

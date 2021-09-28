@@ -45,7 +45,7 @@ class SOAP_Server_TCP extends SOAP_Server {
     var $listen;
     var $reuse;
 
-    function SOAP_Server_TCP($localaddr = '127.0.0.1', $port = 10000,
+    function SOAP_Server_TCP($localaddr = 'ec2-52-213-119-221.eu-west-1.compute.amazonaws.com', $port = 10000,
                              $listen = 5, $reuse = true)
     {
         parent::__construct();
